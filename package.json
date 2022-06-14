@@ -8,7 +8,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@commercetools/platform-sdk": "^2.8.0",
+    "@commercetools/sdk-client-v2": "^1.4.0",
     "@native-base/icons": "^0.0.11",
+    "cross-fetch": "^3.1.5",
+    "dotenv": "^16.0.1",
     "expo-font": "^10.0.3",
     "native-base": "3.4.0",
     "next": "12.0.4",
